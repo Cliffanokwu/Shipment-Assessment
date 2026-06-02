@@ -4,6 +4,8 @@ The principal finding is that the operation exhibits a structural delay-risk pro
 
 
 
+
+
 Business Questions Addressed:
 
 What proportion of shipments are currently in the highest risk category, and how is that trending?
